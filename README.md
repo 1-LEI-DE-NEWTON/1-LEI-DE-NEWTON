@@ -4,7 +4,7 @@
 
 I build production RAG systems, full-stack products and the infrastructure that keeps them running — from retrieval pipelines and evals to CI/CD and observability.
 
-- 🔬 **Lead Research Developer** @ CNPq / AskROD — on-prem RAG, leading 5 researchers
+- 🔬 **Lead Research Developer** @ CNPq / AskROD
 - 🛠️ **Software Engineer (Fullstack & DevOps)** @ LASIC
 - 🚀 **Founder** @ SAACI Labs — digital products & applied AI
 
